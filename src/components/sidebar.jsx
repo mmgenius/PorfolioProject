@@ -27,8 +27,7 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://www.facebook.com/momo.mamadou.5074" target="_blank"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/mmsupergenius" target="_blank"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com//" target="_blank"><i className="icon-instagram" /></a></li>
+                <li><a href="https://twitter.com/mmsupergenius" target="_blank"><i className="icon-twitter2" /></a></li>               
                 <li><a href="https://www.linkedin.com/in/mamadou-mendy-1998b9119" target="_blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/mmgenius" target="_blank"><i className="icon-github"></i></a></li>
                 
