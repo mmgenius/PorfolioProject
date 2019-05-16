@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Internship at Juniper</a> <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2><a href="#">Software Developer at CGX Aero</a> <span>2018-present</span></h2>
+                        <p>I recently have joined CGX Aero as a Software Developer-Intern in the GeoTITAN team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at GeoTITAN to do rapid development. I am also working in a new project names Map Library which allows user to explore all kind of data from GeoTITAN.</p>
                       </div>
                     </div>
                   </article>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Undergraduation at DAIICT</a> <span>2015-2019</span></h2>
+                        <h2><a href="#">Internship at CGX Aero</a> <span>April 2018- July 2018</span></h2>
                         <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
                       </div>
                     </div>
