@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Primary and Higher Education</a> <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2><a href="#">Bachelor Computer Science</a> <span>2015-2016</span></h2>
+                        <p>I have completed my Bachelor Computer Science. During my time at school, I have developed interest in solving complex problems of the fundamental programming which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
